@@ -1,0 +1,14 @@
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\bin\Debug\net8.0\CreationalPatternsInventoryApp.exe
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\bin\Debug\net8.0\CreationalPatternsInventoryApp.deps.json
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\bin\Debug\net8.0\CreationalPatternsInventoryApp.runtimeconfig.json
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\bin\Debug\net8.0\CreationalPatternsInventoryApp.dll
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\bin\Debug\net8.0\CreationalPatternsInventoryApp.pdb
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\obj\Debug\net8.0\CreationalPatternsInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\obj\Debug\net8.0\CreationalPatternsInventoryApp.AssemblyInfoInputs.cache
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\obj\Debug\net8.0\CreationalPatternsInventoryApp.AssemblyInfo.cs
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\obj\Debug\net8.0\CreationalPatternsInventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\obj\Debug\net8.0\CreationalPatternsInventoryApp.dll
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\obj\Debug\net8.0\refint\CreationalPatternsInventoryApp.dll
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\obj\Debug\net8.0\CreationalPatternsInventoryApp.pdb
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\obj\Debug\net8.0\CreationalPatternsInventoryApp.genruntimeconfig.cache
+C:\Users\selliott\source\repos\CreationalPatternsInventoryApp\CreationalPatternsInventoryApp\obj\Debug\net8.0\ref\CreationalPatternsInventoryApp.dll
